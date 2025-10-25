@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shardul Ayachit | CFD & Aerodynamic Portfolio</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+
+<body>
+  <header>
+    <h1>Shardul Ayachit</h1>
+    <p>Aeronautical Engineer | CFD • Aerodynamics • Wind Tunnel Testing</p>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="projects.html">Projects</a>
+      <a href="about.html">About</a>
+      <a href="mailto:shardulayachit@gmail.com">Contact</a>
+    </nav>
+  </header>
+
+  <section class="intro">
+    <h2>Welcome</h2>
+    <p>
+      I’m an Aeronautical Engineer with postgraduate training in Aerospace Dynamics from Cranfield University, UK. 
+      My work focuses on aerodynamic analysis, CFD simulation, meshing optimisation, and wind tunnel testing.
+    </p>
+    <a href="projects.html" class="btn">View My Projects</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Shardul Ayachit | Hosted on GitHub Pages</p>
+  </footer>
+</body>
+</html>
